@@ -1,0 +1,42 @@
+{
+  "name": "@hutsoninc/flatten-dir-cli",
+  "version": "1.0.0",
+  "description": "Recursively flatten a directory",
+  "bin": {
+    "flatten": "cli.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "dir",
+    "dirs",
+    "directory",
+    "directories",
+    "folder",
+    "folders",
+    "fs",
+    "filesystem",
+    "file-system",
+    "cli",
+    "cli-app",
+    "flatten"
+  ],
+  "author": {
+    "name": "Austin Gordon",
+    "email": "gordon.austin2@gmail.com",
+    "url": "http://www.austinleegordon.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hutsoninc/flatten-dir-cli"
+  },
+  "dependencies": {
+    "@hutsoninc/flatten-dir": "^1.0.0",
+    "meow": "^5.0.0"
+  }
+}
