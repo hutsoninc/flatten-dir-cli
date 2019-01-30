@@ -1,6 +1,6 @@
 {
   "name": "@hutsoninc/flatten-dir-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recursively flatten a directory",
   "bin": {
     "flatten": "cli.js"
