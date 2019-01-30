@@ -6,7 +6,7 @@ Recursively flatten a directory (moves all files from subfolders into the one fo
 
 ## Installation
 
-`npm install --global flatten-dir-cli`
+`npm install --global @hutsoninc/flatten-dir-cli`
 
 ## Usage
 
