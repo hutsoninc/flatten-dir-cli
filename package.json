@@ -37,6 +37,6 @@
   },
   "dependencies": {
     "@hutsoninc/flatten-dir": "^1.0.3",
-    "meow": "^5.0.0"
+    "meow": "^7.0.1"
   }
 }
